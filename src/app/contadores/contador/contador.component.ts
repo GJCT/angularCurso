@@ -15,7 +15,7 @@ import { Component } from '@angular/core';
     `
 })
 export class contadorComponent{
-    titulo: string = 'bases';
+  titulo: string = 'bases';
   numero: number = 10;
 
   base: number = 5;
